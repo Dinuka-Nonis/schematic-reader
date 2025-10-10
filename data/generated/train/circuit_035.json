@@ -1,0 +1,42 @@
+{
+  "filename": "circuit_035.png",
+  "folder": "train",
+  "num_gates": 5,
+  "gates": [
+    {
+      "id": "g0",
+      "type": "NOR",
+      "x": 0,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g1",
+      "type": "NAND",
+      "x": 2,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g2",
+      "type": "NOR",
+      "x": 4,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g3",
+      "type": "NOR",
+      "x": 6,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g4",
+      "type": "OR",
+      "x": 8,
+      "y": 0,
+      "inputs": 2
+    }
+  ]
+}

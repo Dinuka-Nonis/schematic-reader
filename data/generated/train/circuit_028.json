@@ -1,0 +1,91 @@
+{
+  "filename": "circuit_028.png",
+  "folder": "train",
+  "num_gates": 12,
+  "gates": [
+    {
+      "id": "g0",
+      "type": "OR",
+      "x": 0,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g1",
+      "type": "NAND",
+      "x": 2,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g2",
+      "type": "NAND",
+      "x": 4,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g3",
+      "type": "OR",
+      "x": 6,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g4",
+      "type": "AND",
+      "x": 8,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g5",
+      "type": "AND",
+      "x": 10,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g6",
+      "type": "XOR",
+      "x": 12,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g7",
+      "type": "NAND",
+      "x": 14,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g8",
+      "type": "NOT",
+      "x": 16,
+      "y": 0,
+      "inputs": 1
+    },
+    {
+      "id": "g9",
+      "type": "NAND",
+      "x": 18,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g10",
+      "type": "NAND",
+      "x": 20,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g11",
+      "type": "NAND",
+      "x": 22,
+      "y": 0,
+      "inputs": 2
+    }
+  ]
+}

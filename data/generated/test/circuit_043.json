@@ -1,0 +1,42 @@
+{
+  "filename": "circuit_043.png",
+  "folder": "test",
+  "num_gates": 5,
+  "gates": [
+    {
+      "id": "g0",
+      "type": "XOR",
+      "x": 0,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g1",
+      "type": "NOR",
+      "x": 2,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g2",
+      "type": "NOT",
+      "x": 4,
+      "y": 0,
+      "inputs": 1
+    },
+    {
+      "id": "g3",
+      "type": "XOR",
+      "x": 6,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g4",
+      "type": "AND",
+      "x": 8,
+      "y": 0,
+      "inputs": 2
+    }
+  ]
+}

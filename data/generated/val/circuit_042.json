@@ -1,0 +1,56 @@
+{
+  "filename": "circuit_042.png",
+  "folder": "val",
+  "num_gates": 7,
+  "gates": [
+    {
+      "id": "g0",
+      "type": "NAND",
+      "x": 0,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g1",
+      "type": "NOR",
+      "x": 2,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g2",
+      "type": "XOR",
+      "x": 4,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g3",
+      "type": "NOT",
+      "x": 6,
+      "y": 0,
+      "inputs": 1
+    },
+    {
+      "id": "g4",
+      "type": "NOR",
+      "x": 8,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g5",
+      "type": "XOR",
+      "x": 10,
+      "y": 0,
+      "inputs": 2
+    },
+    {
+      "id": "g6",
+      "type": "NOR",
+      "x": 12,
+      "y": 0,
+      "inputs": 2
+    }
+  ]
+}
