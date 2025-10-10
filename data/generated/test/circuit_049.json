@@ -1,56 +1,47 @@
 {
   "filename": "circuit_049.png",
   "folder": "test",
-  "num_gates": 7,
+  "num_gates": 5,
   "gates": [
     {
       "id": "g0",
-      "type": "NAND",
-      "x": 0,
-      "y": 0,
+      "type": "XOR",
+      "x": -0.14,
+      "y": 0.1,
+      "rotation": 0,
       "inputs": 2
     },
     {
       "id": "g1",
-      "type": "OR",
-      "x": 2,
-      "y": 0,
+      "type": "NAND",
+      "x": 1.95,
+      "y": -0.17,
+      "rotation": 270,
       "inputs": 2
     },
     {
       "id": "g2",
-      "type": "AND",
-      "x": 4,
-      "y": 0,
+      "type": "NOR",
+      "x": 3.91,
+      "y": -0.23,
+      "rotation": 0,
       "inputs": 2
     },
     {
       "id": "g3",
-      "type": "NOT",
-      "x": 6,
-      "y": 0,
-      "inputs": 1
-    },
-    {
-      "id": "g4",
-      "type": "NOT",
-      "x": 8,
-      "y": 0,
-      "inputs": 1
-    },
-    {
-      "id": "g5",
-      "type": "AND",
-      "x": 10,
-      "y": 0,
+      "type": "XOR",
+      "x": 6.02,
+      "y": -0.11,
+      "rotation": 270,
       "inputs": 2
     },
     {
-      "id": "g6",
-      "type": "NOT",
-      "x": 12,
-      "y": 0,
-      "inputs": 1
+      "id": "g4",
+      "type": "OR",
+      "x": 8.29,
+      "y": -0.27,
+      "rotation": 270,
+      "inputs": 2
     }
   ]
 }

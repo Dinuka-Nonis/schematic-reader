@@ -1,69 +1,62 @@
 {
   "filename": "circuit_019.png",
   "folder": "train",
-  "num_gates": 9,
+  "num_gates": 7,
   "gates": [
     {
       "id": "g0",
-      "type": "NOR",
-      "x": 0,
-      "y": 0,
+      "type": "NAND",
+      "x": -0.03,
+      "y": -0.17,
+      "rotation": 270,
       "inputs": 2
     },
     {
       "id": "g1",
-      "type": "OR",
-      "x": 2,
-      "y": 0,
+      "type": "NAND",
+      "x": 2.1,
+      "y": -0.13,
+      "rotation": 90,
       "inputs": 2
     },
     {
       "id": "g2",
-      "type": "NOR",
-      "x": 4,
-      "y": 0,
+      "type": "XOR",
+      "x": 3.76,
+      "y": 0.27,
+      "rotation": 180,
       "inputs": 2
     },
     {
       "id": "g3",
-      "type": "AND",
-      "x": 6,
-      "y": 0,
+      "type": "OR",
+      "x": 5.83,
+      "y": -0.18,
+      "rotation": 180,
       "inputs": 2
     },
     {
       "id": "g4",
-      "type": "XOR",
-      "x": 8,
-      "y": 0,
+      "type": "AND",
+      "x": 7.85,
+      "y": -0.01,
+      "rotation": 0,
       "inputs": 2
     },
     {
       "id": "g5",
-      "type": "NOT",
-      "x": 10,
-      "y": 0,
-      "inputs": 1
+      "type": "AND",
+      "x": -0.05,
+      "y": -1.42,
+      "rotation": 270,
+      "inputs": 2
     },
     {
       "id": "g6",
-      "type": "XOR",
-      "x": 12,
-      "y": 0,
-      "inputs": 2
-    },
-    {
-      "id": "g7",
-      "type": "NOR",
-      "x": 14,
-      "y": 0,
-      "inputs": 2
-    },
-    {
-      "id": "g8",
-      "type": "NOR",
-      "x": 16,
-      "y": 0,
+      "type": "OR",
+      "x": 2.0,
+      "y": -1.65,
+      "rotation": 270,
       "inputs": 2
     }
   ]

@@ -5,37 +5,42 @@
   "gates": [
     {
       "id": "g0",
-      "type": "NOR",
-      "x": 0,
-      "y": 0,
+      "type": "NAND",
+      "x": 0.09,
+      "y": -0.21,
+      "rotation": 0,
       "inputs": 2
     },
     {
       "id": "g1",
-      "type": "NAND",
-      "x": 2,
-      "y": 0,
+      "type": "XOR",
+      "x": 2.01,
+      "y": -0.14,
+      "rotation": 180,
       "inputs": 2
     },
     {
       "id": "g2",
-      "type": "NOR",
-      "x": 4,
-      "y": 0,
+      "type": "NAND",
+      "x": 3.85,
+      "y": 0.03,
+      "rotation": 270,
       "inputs": 2
     },
     {
       "id": "g3",
-      "type": "NOR",
-      "x": 6,
-      "y": 0,
+      "type": "NAND",
+      "x": 6.25,
+      "y": 0.0,
+      "rotation": 90,
       "inputs": 2
     },
     {
       "id": "g4",
       "type": "OR",
-      "x": 8,
-      "y": 0,
+      "x": 7.87,
+      "y": 0.17,
+      "rotation": 0,
       "inputs": 2
     }
   ]
