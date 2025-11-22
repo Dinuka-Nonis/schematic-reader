@@ -1,5 +1,0 @@
-train: D:/Projects/SchematicReader/data/yolo_data/images/train
-val:   D:/Projects/SchematicReader/data/yolo_data/images/val
-
-nc: 6
-names: ['AND', 'OR', 'NOT', 'NAND', 'NOR', 'XOR']
